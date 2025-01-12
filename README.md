@@ -22,7 +22,7 @@
 - **[Device for the Deaf and Dumb](#)**  
   *Voice-to-vibration translator with bone conduction and language translation capabilities.*
   
-- **[Face Recognition Attendance System](#)**  
+- **[Face Recognition Attendance System](https://github.com/krushnamohod/Face_Recognition)**  
   *Automated attendance using face detection and CSV exports.*
 
 - **[Knowledge Insight Hub](https://github.com/krushnamohod/Knowledgeinsight_hub)**  
