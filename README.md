@@ -25,7 +25,7 @@
 - **[Face Recognition Attendance System](#)**  
   *Automated attendance using face detection and CSV exports.*
 
-- **[Knowledge Insight Hub](#)**  
+- **[Knowledge Insight Hub]([(https://github.com/krushnamohod/Knowledgeinsight_hub)])**  
   *Transforms CSV data into actionable insights with visualizations.*
 
 ---
